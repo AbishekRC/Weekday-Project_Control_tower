@@ -1,0 +1,28 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local dependencies and build output
+node_modules/
+dist/
+
+# macOS files
+.DS_Store
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+
+# Assignment data and spreadsheets
+*.xlsx
+*.xls
+*.csv
+
+# Local AI Studio artifacts
+.aistudio/artifacts/brain/

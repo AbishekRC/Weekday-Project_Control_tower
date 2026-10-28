@@ -1,0 +1,6 @@
+{
+  "name": "Weekday Scheduling Control Tower",
+  "description": "Operations command center for candidate interview scheduling, 24-hour SLA tracking, intern workbenches, and verified booking management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
